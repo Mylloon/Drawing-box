@@ -1,2 +1,2 @@
 # Drawing-box
-Boite a dessin
+Boite a dessin inutile
